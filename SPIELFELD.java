@@ -9,7 +9,6 @@ public class SPIELFELD{
     private Dreieck start1;
     private Quadrat[] start2;
     
-    //Farbe in leinwand aendern zu schwarz
     
     public SPIELFELD() {
         feld = new Quadrat[10];
